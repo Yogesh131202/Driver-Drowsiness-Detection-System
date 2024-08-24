@@ -68,7 +68,8 @@ It will analyze your eye movements to detect signs of drowsiness.
 3. **Audio Alert:**
 
 If drowsiness is detected, an alert sound will be triggered to wake up the driver.
-Project Structure
+
+## Project Structure
 
 ```bash
 Driver-Drowsiness-Detection-System/
